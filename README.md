@@ -212,7 +212,7 @@ These are hypotheses suggested by the data, not proven effects. The analysis des
 
 ## Dashboard
 
-[Add Looker Studio link here]
+https://datastudio.google.com/reporting/bee64704-531f-4754-ab32-2b5714a96311
 
 ![Overview page](dashboard/overview.png)
 ![Risk page](dashboard/risk.png)
